@@ -1,0 +1,43 @@
+GET http://localhost:5000/users
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjEsIm5hbWUiOiJNIEZpa3JpIiwiZW1haWwiOiJlbWFpbEBnbWFpbC5jb20iLCJpYXQiOjE3MDE2NjYzNzYsImV4cCI6MTcwMTY2NjM5Nn0.QRtGw95ZFGKKJQp9UfkDy0PaD9_NPRs4roQS-c4LQv8
+
+###
+POST http://localhost:5000/users
+Content-Type: application/json
+
+{
+    "name": "M Fikri",
+    "email": "email@gmail.com",
+    "password": "123456",
+    "confPassword": "123456"
+}
+
+###
+POST http://localhost:5000/login
+Content-Type: application/json
+
+{
+    "email" : "email@gmail.com",
+    "password": "123456"
+}
+
+###
+GET  http://localhost:5000/token
+
+###
+DELETE  http://localhost:5000/logout
+
+###
+GET http://localhost:5000/kontak
+Authorization: Bearer
+
+###
+POST http://localhost:5000/kontak
+
+
+{
+    "message": "Abcd",
+    "name": "M Fikri",
+    "email": "email@gmail.com",
+    "subject": "123456",
+}

@@ -1,0 +1,523 @@
+.akademi-kopi {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .akademi-kopi .div {
+    background-color: #ffffff;
+    height: 3004px;
+    position: relative;
+    width: 1440px;
+  }
+  
+  .akademi-kopi .overlap-group {
+    background-image: url(./whatsapp-image-2023-11-07-at-22-51-1.png);
+    background-size: 100% 100%;
+    height: 359px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1440px;
+  }
+  
+  .akademi-kopi .frame {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    height: 52px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1440px;
+  }
+  
+  .akademi-kopi .rectangle {
+    height: 70px;
+    margin-bottom: -18.38px;
+    position: relative;
+    width: 1440px;
+  }
+  
+  .akademi-kopi .frame-2 {
+    height: 37px;
+    left: 801px;
+    position: absolute;
+    top: 17px;
+    width: 568px;
+  }
+  
+  .akademi-kopi .navbar {
+    align-items: flex-start;
+    display: inline-flex;
+    gap: 40px;
+    left: -31px;
+    position: absolute;
+    top: 7px;
+  }
+  
+  .akademi-kopi .text-wrapper {
+    color: #361f1f;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    text-align: center;
+    width: fit-content;
+  }
+  
+  .akademi-kopi .text-wrapper-2 {
+    color: #361f1f;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-size: 14px;
+    font-weight: 700;
+    height: 17px;
+    left: 472px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 6px;
+  }
+  
+  .akademi-kopi .img {
+    height: 41px;
+    left: 537px;
+    position: absolute;
+    top: -3px;
+    width: 59px;
+  }
+  
+  .akademi-kopi .button-primary-instance {
+    background-color: #332924 !important;
+    border-radius: 5px !important;
+    left: 108px !important;
+    position: absolute !important;
+    top: 247px !important;
+  }
+  
+  .akademi-kopi .beranda-akademi-kopi {
+    color: #ffffff;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    height: 20px;
+    left: 108px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 208px;
+  }
+  
+  .akademi-kopi .text-wrapper-3 {
+    color: #ffffff;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-size: 50px;
+    font-weight: 700;
+    height: 69px;
+    left: 79px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 130px;
+    width: 384px;
+  }
+  
+  .akademi-kopi .indonesia-memiliki {
+    color: #000000;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    height: 221px;
+    left: 188px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: justify;
+    top: 459px;
+    width: 1085px;
+  }
+  
+  .akademi-kopi .span {
+    color: #000000;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 0;
+  }
+  
+  .akademi-kopi .text-wrapper-4 {
+    text-decoration: underline;
+  }
+  
+  .akademi-kopi .overlap {
+    height: 405px;
+    left: 188px;
+    position: absolute;
+    top: 722px;
+    width: 1085px;
+  }
+  
+  .akademi-kopi .overlap-2 {
+    height: 405px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1085px;
+  }
+  
+  .akademi-kopi .p {
+    color: #000000;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    height: 320px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 20px;
+    position: absolute;
+    text-align: justify;
+    top: 0;
+    width: 664px;
+  }
+  
+  .akademi-kopi .text-wrapper-5 {
+    color: #000000;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 20px;
+  }
+  
+  .akademi-kopi .text-wrapper-6 {
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+  }
+  
+  .akademi-kopi .element-kopi-liberika {
+    color: #000000;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    height: 100px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 20px;
+    position: absolute;
+    text-align: justify;
+    top: 305px;
+    width: 1085px;
+  }
+  
+  .akademi-kopi .text-wrapper-7 {
+    font-weight: 700;
+  }
+  
+  .akademi-kopi .text-wrapper-8 {
+    font-family: "Montserrat-Regular", Helvetica;
+  }
+  
+  .akademi-kopi .grinding-your-coffee {
+    height: 295px;
+    left: 698px;
+    object-fit: cover;
+    position: absolute;
+    top: 1px;
+    width: 387px;
+  }
+  
+  .akademi-kopi .text-wrapper-9 {
+    color: #000000;
+    font-family: "Montserrat-Medium", Helvetica;
+    font-size: 20px;
+    font-weight: 500;
+    height: 24px;
+    left: 187px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 413px;
+    width: 377px;
+  }
+  
+  .akademi-kopi .text-wrapper-10 {
+    color: #000000;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-size: 36px;
+    font-weight: 700;
+    height: 24px;
+    left: 190px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 1156px;
+    white-space: nowrap;
+    width: 377px;
+  }
+  
+  .akademi-kopi .text-wrapper-11 {
+    color: #000000;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    height: 24px;
+    left: 190px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 1210px;
+    white-space: nowrap;
+    width: 408px;
+  }
+  
+  .akademi-kopi .text-wrapper-12 {
+    color: #000000;
+    font-family: "Montserrat-Medium", Helvetica;
+    font-size: 20px;
+    font-weight: 500;
+    height: 24px;
+    left: 187px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 687px;
+    width: 377px;
+  }
+  
+  .akademi-kopi .text-wrapper-13 {
+    color: #000000;
+    font-family: "Montserrat-Medium", Helvetica;
+    font-size: 36px;
+    font-weight: 500;
+    height: 23px;
+    left: 686px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 1909px;
+    white-space: nowrap;
+    width: 152px;
+  }
+  
+  .akademi-kopi .element {
+    height: 206px;
+    left: 197px;
+    position: absolute;
+    top: 1964px;
+    width: 339px;
+  }
+  
+  .akademi-kopi .element-2 {
+    height: 206px;
+    left: 573px;
+    position: absolute;
+    top: 1964px;
+    width: 340px;
+  }
+  
+  .akademi-kopi .element-3 {
+    height: 206px;
+    left: 950px;
+    position: absolute;
+    top: 1964px;
+    width: 339px;
+  }
+  
+  .akademi-kopi .element-4 {
+    height: 206px;
+    left: 197px;
+    position: absolute;
+    top: 2479px;
+    width: 339px;
+  }
+  
+  .akademi-kopi .element-5 {
+    height: 249px;
+    left: 196px;
+    position: absolute;
+    top: 2200px;
+    width: 537px;
+  }
+  
+  .akademi-kopi .element-6 {
+    height: 249px;
+    left: 780px;
+    position: absolute;
+    top: 2200px;
+    width: 508px;
+  }
+  
+  .akademi-kopi .element-7 {
+    height: 206px;
+    left: 573px;
+    position: absolute;
+    top: 2479px;
+    width: 340px;
+  }
+  
+  .akademi-kopi .element-8 {
+    height: 206px;
+    left: 950px;
+    position: absolute;
+    top: 2479px;
+    width: 339px;
+  }
+  
+  .akademi-kopi .div-wrapper {
+    background-image: url(./rectangle-267.svg);
+    background-size: 100% 100%;
+    height: 178px;
+    left: 191px;
+    position: absolute;
+    top: 1265px;
+    width: 1089px;
+  }
+  
+  .akademi-kopi .text-wrapper-14 {
+    color: #000000;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-size: 20px;
+    font-weight: 700;
+    height: 24px;
+    left: 27px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 19px;
+    white-space: nowrap;
+    width: 240px;
+  }
+  
+  .akademi-kopi .footer {
+    align-items: flex-start;
+    background-color: #635454;
+    display: inline-flex;
+    flex-direction: column;
+    left: 0;
+    position: absolute;
+    top: 2743px;
+  }
+  
+  .akademi-kopi .frame-3 {
+    align-items: flex-start;
+    border-color: var(--blacksecondary);
+    border-top-style: solid;
+    border-top-width: 1px;
+    display: flex;
+    flex: 0 0 auto;
+    justify-content: space-between;
+    padding: 50px 64px;
+    position: relative;
+    width: 1440px;
+  }
+  
+  .akademi-kopi .flexcontainer {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 319px;
+  }
+  
+  .akademi-kopi .text-i {
+    align-self: stretch;
+    color: #ffffff;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    text-align: justify;
+  }
+  
+  .akademi-kopi .text-wrapper-15 {
+    font-family: "Montserrat-Regular", Helvetica;
+    font-size: 14px;
+  }
+  
+  .akademi-kopi .frame-4 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 20px;
+    position: relative;
+  }
+  
+  .akademi-kopi .text-wrapper-16 {
+    color: var(--whiteprimary);
+    font-family: "Montserrat-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    text-align: center;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .akademi-kopi .text-wrapper-17 {
+    color: #ffffff;
+    font-family: "Times New Roman-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 20px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .akademi-kopi .frame-5 {
+    flex: 0 0 auto;
+    margin-bottom: -2.5px;
+    margin-left: -4.5px;
+    position: relative;
+  }
+  
+  .akademi-kopi .element-coffee-space-wrapper {
+    align-items: flex-start;
+    border-color: var(--blacksecondary);
+    border-top-style: solid;
+    border-top-width: 1px;
+    display: flex;
+    flex: 0 0 auto;
+    gap: 10px;
+    padding: 20px 64px;
+    position: relative;
+    width: 1440px;
+  }
+  
+  .akademi-kopi .element-coffee-space {
+    color: #ffffff;
+    flex: 1;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    text-align: center;
+  }
+  
+  .akademi-kopi .text-wrapper-18 {
+    color: #ffffff;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 0;
+  }
